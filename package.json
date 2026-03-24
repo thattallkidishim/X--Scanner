@@ -1,0 +1,10 @@
+{
+  "name": "x-scanner",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node scanner.js"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
